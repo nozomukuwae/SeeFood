@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  SeaFood
+//  SeeFood
 //
 //  Created by Nozomu Kuwae on 12/24/18.
 //  Copyright © 2018 Nozomu Kuwae. All rights reserved.
